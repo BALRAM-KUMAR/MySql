@@ -12,3 +12,6 @@
 --insert into orders values(9,"k",400,1);
 --select customer_id, count(*) as total_item from orders where item="keyboard" group by customer_id;
 --select * from orders where amount>400 order by amount asc;
+
+
+find the number of customers in each country". The GROUP BY statement is often used with aggregate functions ( COUNT() , MAX() , MIN() , SUM() , AVG() ) to group the result-set by one or more columns.
